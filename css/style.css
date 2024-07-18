@@ -5,7 +5,11 @@
     --light: #F6F4F9;
     --dark: #04000B;
 }
-
+.tagline {
+    font-size: 1.0em;
+    color: #121111;
+    
+}
 
 /*** Spinner ***/
 #spinner {

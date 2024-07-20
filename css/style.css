@@ -338,7 +338,14 @@ h6,
         center center;
     background-repeat: no-repeat;
 }
-
+#container{
+    margin-left: 245px;
+}
+@media (max-width: 768px) {
+    #container{
+        margin-left:25px;
+    }
+}
 
 /*** Service ***/
 .service-item {
